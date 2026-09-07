@@ -106,6 +106,22 @@ mindmap
 
 ---
 
+## 🧰 SKILLS
+
+**Technology Audit & Controls:** Internal Audit | Technology Audit | IT General Controls (ITGC) | Application Controls | SDLC Reviews | Control Design Assessment | Operating Effectiveness Testing | Segregation of Duties (SoD)
+
+**Risk & Governance:** Technology Risk Assessment | Information Security Risk Assessment | Audit Planning & Fieldwork | Audit Reporting | Issue Remediation | Third-Party Risk Management (TPRM)
+
+**Security & Infrastructure:** IAM | Access Management | Change Management | Vulnerability Management | Application Security | Network Security Controls | System Architecture | Database & Operating System Fundamentals
+
+**Data & Automation:** SQL | Python | Audit Analytics | AI-Powered Automation | Workflow Automation | Data Analytics
+
+**Frameworks & Compliance:** SOX ITGC | FDICIA | PCI DSS | NIST | ISO 27001 | HIPAA | FFIEC
+
+**Tools:** AuditBoard | FieldGuide | CCH | Jira | Smartsheet | Rapid7 | Qualys | Power Apps | Power Automate
+
+---
+
 ## 💼 PROFESSIONAL EXPERIENCE
 
 <table width="100%">
